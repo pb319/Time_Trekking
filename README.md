@@ -1,2 +1,2 @@
-# Time_trekking
+# Time_Trekking
 Let's start the adventure of Time Series Analysis.
